@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Athreading\bin\Debug\net5.0\Athreading.exe
+H:\BackEnd\C#-ref\Athreading\bin\Debug\net5.0\Athreading.deps.json
+H:\BackEnd\C#-ref\Athreading\bin\Debug\net5.0\Athreading.runtimeconfig.json
+H:\BackEnd\C#-ref\Athreading\bin\Debug\net5.0\Athreading.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Athreading\bin\Debug\net5.0\Athreading.dll
+H:\BackEnd\C#-ref\Athreading\bin\Debug\net5.0\Athreading.pdb
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.dll
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\refint\Athreading.dll
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.pdb
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\Athreading.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Athreading\obj\Debug\net5.0\ref\Athreading.dll

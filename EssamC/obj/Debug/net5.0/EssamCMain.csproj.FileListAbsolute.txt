@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\EssamC\bin\Debug\net5.0\EssamCMain.exe
+H:\BackEnd\C#-ref\EssamC\bin\Debug\net5.0\EssamCMain.deps.json
+H:\BackEnd\C#-ref\EssamC\bin\Debug\net5.0\EssamCMain.runtimeconfig.json
+H:\BackEnd\C#-ref\EssamC\bin\Debug\net5.0\EssamCMain.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\EssamC\bin\Debug\net5.0\EssamCMain.dll
+H:\BackEnd\C#-ref\EssamC\bin\Debug\net5.0\EssamCMain.pdb
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.AssemblyInfo.cs
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.dll
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\refint\EssamCMain.dll
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.pdb
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\EssamCMain.genruntimeconfig.cache
+H:\BackEnd\C#-ref\EssamC\obj\Debug\net5.0\ref\EssamCMain.dll

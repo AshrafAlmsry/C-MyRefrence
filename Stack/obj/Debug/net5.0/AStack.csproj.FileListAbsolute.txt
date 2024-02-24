@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Stack\bin\Debug\net5.0\AStack.exe
+H:\BackEnd\C#-ref\Stack\bin\Debug\net5.0\AStack.deps.json
+H:\BackEnd\C#-ref\Stack\bin\Debug\net5.0\AStack.runtimeconfig.json
+H:\BackEnd\C#-ref\Stack\bin\Debug\net5.0\AStack.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Stack\bin\Debug\net5.0\AStack.dll
+H:\BackEnd\C#-ref\Stack\bin\Debug\net5.0\AStack.pdb
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.dll
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\refint\AStack.dll
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.pdb
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\AStack.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Stack\obj\Debug\net5.0\ref\AStack.dll

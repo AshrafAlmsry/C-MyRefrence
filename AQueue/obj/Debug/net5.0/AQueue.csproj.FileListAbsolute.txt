@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\AQueue\bin\Debug\net5.0\AQueue.exe
+H:\BackEnd\C#-ref\AQueue\bin\Debug\net5.0\AQueue.deps.json
+H:\BackEnd\C#-ref\AQueue\bin\Debug\net5.0\AQueue.runtimeconfig.json
+H:\BackEnd\C#-ref\AQueue\bin\Debug\net5.0\AQueue.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\AQueue\bin\Debug\net5.0\AQueue.dll
+H:\BackEnd\C#-ref\AQueue\bin\Debug\net5.0\AQueue.pdb
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.AssemblyInfo.cs
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.dll
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\refint\AQueue.dll
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.pdb
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\AQueue.genruntimeconfig.cache
+H:\BackEnd\C#-ref\AQueue\obj\Debug\net5.0\ref\AQueue.dll

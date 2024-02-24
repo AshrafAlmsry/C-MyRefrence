@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\MultiTreading\bin\Debug\net5.0\AMultiTreading.exe
+H:\BackEnd\C#-ref\MultiTreading\bin\Debug\net5.0\AMultiTreading.deps.json
+H:\BackEnd\C#-ref\MultiTreading\bin\Debug\net5.0\AMultiTreading.runtimeconfig.json
+H:\BackEnd\C#-ref\MultiTreading\bin\Debug\net5.0\AMultiTreading.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\MultiTreading\bin\Debug\net5.0\AMultiTreading.dll
+H:\BackEnd\C#-ref\MultiTreading\bin\Debug\net5.0\AMultiTreading.pdb
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.AssemblyInfo.cs
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.dll
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\refint\AMultiTreading.dll
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.pdb
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\AMultiTreading.genruntimeconfig.cache
+H:\BackEnd\C#-ref\MultiTreading\obj\Debug\net5.0\ref\AMultiTreading.dll

@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\BooledThread\bin\Debug\net5.0\BooledThread.exe
+H:\BackEnd\C#-ref\BooledThread\bin\Debug\net5.0\BooledThread.deps.json
+H:\BackEnd\C#-ref\BooledThread\bin\Debug\net5.0\BooledThread.runtimeconfig.json
+H:\BackEnd\C#-ref\BooledThread\bin\Debug\net5.0\BooledThread.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\BooledThread\bin\Debug\net5.0\BooledThread.dll
+H:\BackEnd\C#-ref\BooledThread\bin\Debug\net5.0\BooledThread.pdb
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.AssemblyInfo.cs
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.dll
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\refint\BooledThread.dll
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.pdb
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\BooledThread.genruntimeconfig.cache
+H:\BackEnd\C#-ref\BooledThread\obj\Debug\net5.0\ref\BooledThread.dll

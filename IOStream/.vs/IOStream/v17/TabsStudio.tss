@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>H:\BackEnd\C#-ref\IOStream\File-Stream\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>H:\BackEnd\C#-ref\IOStream\File-Stream\f1.txt</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\ExctentionMethod\bin\Debug\net5.0\ExctentionMethod.exe
+H:\BackEnd\C#-ref\ExctentionMethod\bin\Debug\net5.0\ExctentionMethod.deps.json
+H:\BackEnd\C#-ref\ExctentionMethod\bin\Debug\net5.0\ExctentionMethod.runtimeconfig.json
+H:\BackEnd\C#-ref\ExctentionMethod\bin\Debug\net5.0\ExctentionMethod.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\ExctentionMethod\bin\Debug\net5.0\ExctentionMethod.dll
+H:\BackEnd\C#-ref\ExctentionMethod\bin\Debug\net5.0\ExctentionMethod.pdb
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.AssemblyInfo.cs
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.dll
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\refint\ExctentionMethod.dll
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.pdb
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ExctentionMethod.genruntimeconfig.cache
+H:\BackEnd\C#-ref\ExctentionMethod\obj\Debug\net5.0\ref\ExctentionMethod.dll

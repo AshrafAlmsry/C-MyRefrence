@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\ALinkedList\bin\Debug\net5.0\ALinkedList.exe
+H:\BackEnd\C#-ref\ALinkedList\bin\Debug\net5.0\ALinkedList.deps.json
+H:\BackEnd\C#-ref\ALinkedList\bin\Debug\net5.0\ALinkedList.runtimeconfig.json
+H:\BackEnd\C#-ref\ALinkedList\bin\Debug\net5.0\ALinkedList.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\ALinkedList\bin\Debug\net5.0\ALinkedList.dll
+H:\BackEnd\C#-ref\ALinkedList\bin\Debug\net5.0\ALinkedList.pdb
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.AssemblyInfo.cs
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.dll
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\refint\ALinkedList.dll
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.pdb
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ALinkedList.genruntimeconfig.cache
+H:\BackEnd\C#-ref\ALinkedList\obj\Debug\net5.0\ref\ALinkedList.dll

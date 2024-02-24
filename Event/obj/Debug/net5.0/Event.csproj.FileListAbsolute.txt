@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Event\bin\Debug\net5.0\Event.exe
+H:\BackEnd\C#-ref\Event\bin\Debug\net5.0\Event.deps.json
+H:\BackEnd\C#-ref\Event\bin\Debug\net5.0\Event.runtimeconfig.json
+H:\BackEnd\C#-ref\Event\bin\Debug\net5.0\Event.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Event\bin\Debug\net5.0\Event.dll
+H:\BackEnd\C#-ref\Event\bin\Debug\net5.0\Event.pdb
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.dll
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\refint\Event.dll
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.pdb
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\Event.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Event\obj\Debug\net5.0\ref\Event.dll

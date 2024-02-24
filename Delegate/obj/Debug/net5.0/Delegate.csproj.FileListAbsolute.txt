@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Delegate\bin\Debug\net5.0\Delegate.exe
+H:\BackEnd\C#-ref\Delegate\bin\Debug\net5.0\Delegate.deps.json
+H:\BackEnd\C#-ref\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+H:\BackEnd\C#-ref\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Delegate\bin\Debug\net5.0\Delegate.dll
+H:\BackEnd\C#-ref\Delegate\bin\Debug\net5.0\Delegate.pdb
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.dll
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\refint\Delegate.dll
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.pdb
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Delegate\obj\Debug\net5.0\ref\Delegate.dll

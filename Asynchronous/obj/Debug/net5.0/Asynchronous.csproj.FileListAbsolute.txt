@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Asynchronous\bin\Debug\net5.0\Asynchronous.exe
+H:\BackEnd\C#-ref\Asynchronous\bin\Debug\net5.0\Asynchronous.deps.json
+H:\BackEnd\C#-ref\Asynchronous\bin\Debug\net5.0\Asynchronous.runtimeconfig.json
+H:\BackEnd\C#-ref\Asynchronous\bin\Debug\net5.0\Asynchronous.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Asynchronous\bin\Debug\net5.0\Asynchronous.dll
+H:\BackEnd\C#-ref\Asynchronous\bin\Debug\net5.0\Asynchronous.pdb
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.dll
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\refint\Asynchronous.dll
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.pdb
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\Asynchronous.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Asynchronous\obj\Debug\net5.0\ref\Asynchronous.dll

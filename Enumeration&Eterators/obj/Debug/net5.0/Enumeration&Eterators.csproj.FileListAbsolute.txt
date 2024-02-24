@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Enumeration&Eterators\bin\Debug\net5.0\Enumeration&Eterators.exe
+H:\BackEnd\C#-ref\Enumeration&Eterators\bin\Debug\net5.0\Enumeration&Eterators.deps.json
+H:\BackEnd\C#-ref\Enumeration&Eterators\bin\Debug\net5.0\Enumeration&Eterators.runtimeconfig.json
+H:\BackEnd\C#-ref\Enumeration&Eterators\bin\Debug\net5.0\Enumeration&Eterators.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Enumeration&Eterators\bin\Debug\net5.0\Enumeration&Eterators.dll
+H:\BackEnd\C#-ref\Enumeration&Eterators\bin\Debug\net5.0\Enumeration&Eterators.pdb
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.dll
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\refint\Enumeration&Eterators.dll
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.pdb
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\Enumeration&Eterators.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Enumeration&Eterators\obj\Debug\net5.0\ref\Enumeration&Eterators.dll

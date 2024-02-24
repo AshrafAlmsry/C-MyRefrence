@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\AHashSet\bin\Debug\net5.0\AHashSet.exe
+H:\BackEnd\C#-ref\AHashSet\bin\Debug\net5.0\AHashSet.deps.json
+H:\BackEnd\C#-ref\AHashSet\bin\Debug\net5.0\AHashSet.runtimeconfig.json
+H:\BackEnd\C#-ref\AHashSet\bin\Debug\net5.0\AHashSet.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\AHashSet\bin\Debug\net5.0\AHashSet.dll
+H:\BackEnd\C#-ref\AHashSet\bin\Debug\net5.0\AHashSet.pdb
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.AssemblyInfo.cs
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.dll
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\refint\AHashSet.dll
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.pdb
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\AHashSet.genruntimeconfig.cache
+H:\BackEnd\C#-ref\AHashSet\obj\Debug\net5.0\ref\AHashSet.dll

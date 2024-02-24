@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\ListAndDectionry\bin\Debug\net5.0\ListAndDectionry.exe
+H:\BackEnd\C#-ref\ListAndDectionry\bin\Debug\net5.0\ListAndDectionry.deps.json
+H:\BackEnd\C#-ref\ListAndDectionry\bin\Debug\net5.0\ListAndDectionry.runtimeconfig.json
+H:\BackEnd\C#-ref\ListAndDectionry\bin\Debug\net5.0\ListAndDectionry.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\ListAndDectionry\bin\Debug\net5.0\ListAndDectionry.dll
+H:\BackEnd\C#-ref\ListAndDectionry\bin\Debug\net5.0\ListAndDectionry.pdb
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.AssemblyInfo.cs
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.dll
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\refint\ListAndDectionry.dll
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.pdb
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ListAndDectionry.genruntimeconfig.cache
+H:\BackEnd\C#-ref\ListAndDectionry\obj\Debug\net5.0\ref\ListAndDectionry.dll

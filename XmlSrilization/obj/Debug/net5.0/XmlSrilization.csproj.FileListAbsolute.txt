@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\XmlSrilization\bin\Debug\net5.0\XmlSrilization.exe
+H:\BackEnd\C#-ref\XmlSrilization\bin\Debug\net5.0\XmlSrilization.deps.json
+H:\BackEnd\C#-ref\XmlSrilization\bin\Debug\net5.0\XmlSrilization.runtimeconfig.json
+H:\BackEnd\C#-ref\XmlSrilization\bin\Debug\net5.0\XmlSrilization.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\XmlSrilization\bin\Debug\net5.0\XmlSrilization.dll
+H:\BackEnd\C#-ref\XmlSrilization\bin\Debug\net5.0\XmlSrilization.pdb
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.AssemblyInfo.cs
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.dll
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\refint\XmlSrilization.dll
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.pdb
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\XmlSrilization.genruntimeconfig.cache
+H:\BackEnd\C#-ref\XmlSrilization\obj\Debug\net5.0\ref\XmlSrilization.dll

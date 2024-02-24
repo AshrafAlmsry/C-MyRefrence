@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\bin\Debug\net5.0\CAIDisposableDesignPattern.exe
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\bin\Debug\net5.0\CAIDisposableDesignPattern.deps.json
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\bin\Debug\net5.0\CAIDisposableDesignPattern.runtimeconfig.json
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\bin\Debug\net5.0\CAIDisposableDesignPattern.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\bin\Debug\net5.0\CAIDisposableDesignPattern.dll
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\bin\Debug\net5.0\CAIDisposableDesignPattern.pdb
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.AssemblyInfo.cs
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.dll
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\refint\CAIDisposableDesignPattern.dll
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.pdb
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\CAIDisposableDesignPattern.genruntimeconfig.cache
+H:\BackEnd\C#-ref\IOStream\CAIDisposableDesignPattern\obj\Debug\net5.0\ref\CAIDisposableDesignPattern.dll

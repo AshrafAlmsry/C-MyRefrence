@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\XML\bin\Debug\net5.0\XML.exe
+H:\BackEnd\C#-ref\XML\bin\Debug\net5.0\XML.deps.json
+H:\BackEnd\C#-ref\XML\bin\Debug\net5.0\XML.runtimeconfig.json
+H:\BackEnd\C#-ref\XML\bin\Debug\net5.0\XML.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\XML\bin\Debug\net5.0\XML.dll
+H:\BackEnd\C#-ref\XML\bin\Debug\net5.0\XML.pdb
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.AssemblyInfo.cs
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.dll
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\refint\XML.dll
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.pdb
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\XML.genruntimeconfig.cache
+H:\BackEnd\C#-ref\XML\obj\Debug\net5.0\ref\XML.dll

@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\ARaceCondetionThread\bin\Debug\net5.0\ARaceCondetionThread.exe
+H:\BackEnd\C#-ref\ARaceCondetionThread\bin\Debug\net5.0\ARaceCondetionThread.deps.json
+H:\BackEnd\C#-ref\ARaceCondetionThread\bin\Debug\net5.0\ARaceCondetionThread.runtimeconfig.json
+H:\BackEnd\C#-ref\ARaceCondetionThread\bin\Debug\net5.0\ARaceCondetionThread.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\ARaceCondetionThread\bin\Debug\net5.0\ARaceCondetionThread.dll
+H:\BackEnd\C#-ref\ARaceCondetionThread\bin\Debug\net5.0\ARaceCondetionThread.pdb
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.AssemblyInfo.cs
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.dll
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\refint\ARaceCondetionThread.dll
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.pdb
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ARaceCondetionThread.genruntimeconfig.cache
+H:\BackEnd\C#-ref\ARaceCondetionThread\obj\Debug\net5.0\ref\ARaceCondetionThread.dll

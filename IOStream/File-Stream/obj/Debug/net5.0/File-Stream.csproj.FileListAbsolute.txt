@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\IOStream\File-Stream\bin\Debug\net5.0\File-Stream.exe
+H:\BackEnd\C#-ref\IOStream\File-Stream\bin\Debug\net5.0\File-Stream.deps.json
+H:\BackEnd\C#-ref\IOStream\File-Stream\bin\Debug\net5.0\File-Stream.runtimeconfig.json
+H:\BackEnd\C#-ref\IOStream\File-Stream\bin\Debug\net5.0\File-Stream.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\IOStream\File-Stream\bin\Debug\net5.0\File-Stream.dll
+H:\BackEnd\C#-ref\IOStream\File-Stream\bin\Debug\net5.0\File-Stream.pdb
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.AssemblyInfo.cs
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.dll
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\refint\File-Stream.dll
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.pdb
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\File-Stream.genruntimeconfig.cache
+H:\BackEnd\C#-ref\IOStream\File-Stream\obj\Debug\net5.0\ref\File-Stream.dll

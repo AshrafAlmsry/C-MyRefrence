@@ -1,0 +1,15 @@
+H:\BackEnd\C#-ref\Assemplies\bin\Debug\net5.0\Assemplies.exe
+H:\BackEnd\C#-ref\Assemplies\bin\Debug\net5.0\Assemplies.deps.json
+H:\BackEnd\C#-ref\Assemplies\bin\Debug\net5.0\Assemplies.runtimeconfig.json
+H:\BackEnd\C#-ref\Assemplies\bin\Debug\net5.0\Assemplies.runtimeconfig.dev.json
+H:\BackEnd\C#-ref\Assemplies\bin\Debug\net5.0\Assemplies.dll
+H:\BackEnd\C#-ref\Assemplies\bin\Debug\net5.0\Assemplies.pdb
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.GeneratedMSBuildEditorConfig.editorconfig
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.AssemblyInfoInputs.cache
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.AssemblyInfo.cs
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.csproj.CoreCompileInputs.cache
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.dll
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\refint\Assemplies.dll
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.pdb
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\Assemplies.genruntimeconfig.cache
+H:\BackEnd\C#-ref\Assemplies\obj\Debug\net5.0\ref\Assemplies.dll
